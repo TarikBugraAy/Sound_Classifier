@@ -33,3 +33,5 @@ Thumbs.db
 dataset/
 model/
 binary_model/
+t.py
+requirements_kaggle.txt
