@@ -34,7 +34,7 @@ dataset/
 model/
 model_patience-3__85_37/
 model_patience-10__87_80/
-model_chekpoint-/
+model_checkp__84.15/
 binary_model/
 t.py
 requirements_kaggle.txt
