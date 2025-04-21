@@ -32,6 +32,7 @@ Thumbs.db
 # My files
 dataset/
 model/
+old_models/
 model_patience-3__85_37/
 model_patience-10__87_80/
 model_checkp__84.15/
@@ -41,3 +42,4 @@ requirements_kaggle.txt
 unused/
 tuner_results_archive.zip
 tuner_results/
+Tuner_Results/
